@@ -8,3 +8,12 @@ h1{
     color: red;
     font-size: 30px;
 }
+.half-width{
+    width: 50%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+}
