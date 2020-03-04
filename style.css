@@ -3,7 +3,7 @@ body{
     font-family: 'IBM Plex Serif';
 }
 h1{
-    font-size: 85px;
+    font-size: 100px;
 }
 .welcome-note{
     margin-right: 10px;
@@ -11,7 +11,7 @@ h1{
     text-align: center;
 }
 h2{
-    font-size: 30px;
+    font-size: 47px;
 }
 p{
     color: darkblue;
@@ -84,8 +84,7 @@ section{
 }
 .education-name{
     color:red;
-    font-size: 30px;
-    background-position: left;
+    font-size: 40px;
 }
 #full-stack{
     border-left: 13px solid;
@@ -99,13 +98,13 @@ section{
     padding: left;
     border-color: yellow;
 }
-#education{
-    border-image-slice: 1; 
+#education{ 
     border-left: 13px solid;
     border-color: red;
+
 }
 footer p{
     text-align: center;
-    font-size: 15px;
+    font-size: 30px;
     color: red;
 }
